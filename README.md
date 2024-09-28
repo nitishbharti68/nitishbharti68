@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nitish Kumar Bharti 👋</h1>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1URkLi74PhQEqIrDvdEzAFfI8BjCTAOBQ/view?usp=sharing" alt="Profile Image" width="150px" height="150px" />
+  <img src="https://github.com/nitishbharti68/nitishbharti68/blob/main/Me%203%20copy.png?raw=true" alt="Profile Image" width="150px" height="150px" />
 </p>
 
 <p align="center">
