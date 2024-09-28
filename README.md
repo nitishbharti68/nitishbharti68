@@ -44,8 +44,8 @@
 ---
 
 ## 📱 Featured Projects
-- **[Project Name 1](https://github.com/your-repo-link)** – A Flutter app that does something awesome.
-- **[Project Name 2](https://github.com/your-repo-link)** – Another cool Flutter app I developed.
+- **[Chat Buddy](https://github.com/nitishbharti68/chat_app2.git)** – Developed a real-time chat application using Flutter with Firebase integration for seamless messaging.
+- **[Meal App](https://github.com/nitishbharti68/meal_app2.git)** – Built a meal planning app using Flutter with Riverpod state management for dynamic recipe and meal selection.
 
 ---
 
